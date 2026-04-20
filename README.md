@@ -17,7 +17,7 @@ Sair
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Medeiros20/Prova-Estrutura-de-dados.git
+   git clone https://github.com/Dev-Joao-Medeiros/Prova-Estrutura-de-dados.git
    ```
 
 2. Acesse a pasta do projeto:
